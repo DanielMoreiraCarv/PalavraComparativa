@@ -5,6 +5,7 @@
 # Análise de Desempenho: Algoritmos Paralelos CPU e GPU
 
 ## Título: Análise comparativa de algoritmos com uso de paralelismo
+-Autores: Daniel de Carvalho Moreira e Francisco Arthur Nunes
 
 O objetivo deste projeto é fornecer uma análise detalhada do desempenho de algoritmos de busca (contagem de palavras) em diferentes ambientes de processamento: Serial, Paralelo (CPU) e Paralelo (GPU), utilizando a linguagem Java. O foco é entender como a eficiência computacional se altera ao variar o algoritmo e o volume dos dados de entrada.
 
