@@ -114,8 +114,6 @@ Em resumo, os resultados fornecem *insights* valiosos sobre quais meios de proce
 ## 🔗 Anexos / Link do Projeto no GITHUB
 
 *   **Códigos das Implementações:** `BuscaPalavraComparativa.java`, `AnaliseEGerarGrafico.java`, e o *kernel* OpenCL.
-*   **Link do Projeto no GITHUB:**
-    `[INSERIR O LINK DO REPOSITÓRIO AQUI]`
 
-***
-**NOTA IMPORTANTE PARA A CORREÇÃO:** Lembre-se de anexar um arquivo PDF deste README juntamente com o link do GITHUB. Certifique-se de que todas as bibliotecas, especialmente JOCL, estejam devidamente configuradas no ambiente de execução ou que haja instruções claras sobre como colocá-las.
+
+
