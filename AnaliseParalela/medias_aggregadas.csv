@@ -1,0 +1,16 @@
+Arquivo,Metodo,TempoMedio_ms,Amostras,Ocorrencias_exemplo
+DonQuixote-388208.txt,ParallelCPU_Cores_1,94,00,3,0
+DonQuixote-388208.txt,ParallelCPU_Cores_4,66,00,3,0
+DonQuixote-388208.txt,ParallelCPU_Cores_8,71,67,3,0
+DonQuixote-388208.txt,ParallelGPU,8,00,3,0
+DonQuixote-388208.txt,SerialCPU,74,33,3,0
+Dracula-165307.txt,ParallelCPU_Cores_1,44,33,3,0
+Dracula-165307.txt,ParallelCPU_Cores_4,59,00,3,0
+Dracula-165307.txt,ParallelCPU_Cores_8,23,67,3,0
+Dracula-165307.txt,ParallelGPU,7,33,3,1
+Dracula-165307.txt,SerialCPU,64,67,3,0
+MobyDick-217452.txt,ParallelCPU_Cores_1,61,33,3,533
+MobyDick-217452.txt,ParallelCPU_Cores_4,104,67,3,533
+MobyDick-217452.txt,ParallelCPU_Cores_8,43,00,3,533
+MobyDick-217452.txt,ParallelGPU,18,33,3,1334
+MobyDick-217452.txt,SerialCPU,133,00,3,533
